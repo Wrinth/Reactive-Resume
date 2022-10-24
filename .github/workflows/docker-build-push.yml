@@ -53,10 +53,10 @@ jobs:
           file: client/Dockerfile
           platforms: linux/amd64,linux/arm64
           tags: |
-            amruthpillai/reactive-resume:client-latest
-            amruthpillai/reactive-resume:client-${{ env.version }}
-            ghcr.io/amruthpillai/reactive-resume:client-latest
-            ghcr.io/amruthpillai/reactive-resume:client-${{ env.version }}
+            wrinth/reactive-resume:client-latest
+            wrinth/reactive-resume:client-${{ env.version }}
+            ghcr.io/wrinth/reactive-resume:client-latest
+            ghcr.io/wrinth/reactive-resume:client-${{ env.version }}
 
   server:
     name: Server
@@ -106,7 +106,7 @@ jobs:
           file: server/Dockerfile
           platforms: linux/amd64,linux/arm64
           tags: |
-            amruthpillai/reactive-resume:server-latest
-            amruthpillai/reactive-resume:server-${{ env.version }}
-            ghcr.io/amruthpillai/reactive-resume:server-latest
-            ghcr.io/amruthpillai/reactive-resume:server-${{ env.version }}
+            wrinth/reactive-resume:server-latest
+            wrinth/reactive-resume:server-${{ env.version }}
+            ghcr.io/wrinth/reactive-resume:server-latest
+            ghcr.io/wrinth/reactive-resume:server-${{ env.version }}

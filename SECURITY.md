@@ -10,4 +10,4 @@
 
 ## Reporting a Vulnerability
 
-Create an issue on GitHub or send me an email through the contact form on my website at https://amruthpillai.com/
+Create an issue on GitHub or send me an email through the contact form on my website at https://www.linkedin.com/in/wrinth/

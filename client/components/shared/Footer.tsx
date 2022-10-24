@@ -15,8 +15,8 @@ const Footer: React.FC<Props> = ({ className }) => {
       <p>
         <Trans t={t} i18nKey="common.footer.credit">
           A passion project by
-          <a href="https://www.amruthpillai.com/" target="_blank" rel="noreferrer">
-            Amruth Pillai
+          <a href="https://www.linkedin.com/in/wrinth/" target="_blank" rel="noreferrer">
+            Wrinth
           </a>
         </Trans>
       </p>

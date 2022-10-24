@@ -10,9 +10,9 @@ export const FILENAME_TIMESTAMP = 'DDMMYYYYHHmmss';
 
 // Links
 export const DOCS_URL = 'https://docs.rxresu.me';
-export const DONATION_URL = 'https://paypal.me/RajaRajanA';
+export const DONATION_URL = 'https://paypal.me/HoYeungLai';
 export const TRANSLATE_URL = 'https://translate.rxresu.me/';
 export const DIGITALOCEAN_URL = 'https://pillai.xyz/digitalocean';
-export const GITHUB_URL = 'https://github.com/AmruthPillai/Reactive-Resume';
+export const GITHUB_URL = 'https://github.com/Wrinth/Reactive-Resume';
 export const PRODUCT_HUNT_URL = 'https://www.producthunt.com/posts/reactive-resume-v3';
-export const GITHUB_ISSUES_URL = 'https://github.com/AmruthPillai/Reactive-Resume/issues/new/choose';
+export const GITHUB_ISSUES_URL = 'https://github.com/Wrinth/Reactive-Resume/issues/new/choose';

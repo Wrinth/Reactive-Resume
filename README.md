@@ -2,22 +2,22 @@
 
 # Reactive Resume
 
-[![Project Version](https://img.shields.io/github/package-json/v/AmruthPillai/Reactive-Resume?style=flat-square)](https://github.com/AmruthPillai/Reactive-Resume/releases)
-[![Project License](https://img.shields.io/github/license/AmruthPillai/Reactive-Resume?style=flat-square)](https://github.com/AmruthPillai/Reactive-Resume/blob/main/LICENSE)
+[![Project Version](https://img.shields.io/github/package-json/v/Wrinth/Reactive-Resume?style=flat-square)](https://github.com/Wrinth/Reactive-Resume/releases)
+[![Project License](https://img.shields.io/github/license/Wrinth/Reactive-Resume?style=flat-square)](https://github.com/Wrinth/Reactive-Resume/blob/main/LICENSE)
 [![Crowdin](https://badges.crowdin.net/reactive-resume/localized.svg)](https://translate.rxresu.me)
-[![Docker Pulls](https://img.shields.io/docker/pulls/amruthpillai/reactive-resume?style=flat-square)](https://hub.docker.com/r/amruthpillai/reactive-resume)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/AmruthPillai/Reactive-Resume/Build%20and%20Push%20Docker%20Image?label=docker%20build&style=flat-square)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAmruthPillai%2FReactive-Resume.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAmruthPillai%2FReactive-Resume?ref=badge_shield)
+[![Docker Pulls](https://img.shields.io/docker/pulls/wrinth/reactive-resume?style=flat-square)](https://hub.docker.com/r/wrinth/reactive-resume)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Wrinth/Reactive-Resume/Build%20and%20Push%20Docker%20Image?label=docker%20build&style=flat-square)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWrinth%2FReactive-Resume.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FWrinth%2FReactive-Resume?ref=badge_shield)
 
 ## [Go to App](https://rxresu.me) | [Docs](https://docs.rxresu.me)
 
-Reactive Resume is a free and open source resume builder that’s built to make the mundane tasks of creating, updating and sharing your resume as easy as 1, 2, 3. With this app, you can create multiple resumes, share them with recruiters through a unique link and print as PDF, all for free, no advertisements, without losing the integrity and privacy of your data.
+QResumeHub is a free and open source resume builder that’s built to make the mundane tasks of creating, updating and sharing your resume as easy as 1, 2, 3. With this app, you can create multiple resumes, share them with recruiters through a unique link and print as PDF, all for free, no advertisements, without losing the integrity and privacy of your data.
 
 You have complete control over what goes into your resume, how it looks, what colors, what templates, even the layout in which sections placed. Want a dark mode resume? It’s as easy as editing 3 values and you’re done. You don’t need to wait to see your changes either. Everything you type, everything you change, appears immediately on your resume and gets updated in real time.
 
 ## Table of Contents
 
-- [Reactive Resume](#reactive-resume)
+- [QResumeHub](#qresumehub)
   - [Go to App | [Docs](https://docs.rxresu.me)](#go-to-app--docs)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
@@ -120,14 +120,14 @@ NOTE: Be sure to merge the latest from `main` before making a pull request!
 
 ## Report Bugs and Feature Requests
 
-Use the [GitHub Issues](https://github.com/AmruthPillai/Reactive-Resume/issues/new/choose) platform to notify me about bugs or new features that you would like to see in Reactive Resume. Please check before creating new issues as there might already be one.
+Use the [GitHub Issues](https://github.com/Wrinth/Reactive-Resume/issues/new/choose) platform to notify me about bugs or new features that you would like to see in Reactive Resume. Please check before creating new issues as there might already be one.
 
 ## Donations
 
 Reactive Resume would be nothing without the folks who supported me and kept the project alive in the beginning, and your continued support is what keeps me going. If you found Reactive Resume to be useful, helpful or just insightful and appreciate the effort I took to make the project, please consider donating as little or as much as you can.
 
-### [GitHub Sponsor](https://github.com/sponsors/AmruthPillai)
-### [PayPal](https://paypal.me/RajaRajanA)
+### [GitHub Sponsor](https://github.com/sponsors/Wrinth)
+### [PayPal](https://paypal.me/HoYeungLai)
 
 ## Infrastructure
 
@@ -137,23 +137,9 @@ Reactive Resume would be nothing without the folks who supported me and kept the
 - [DigitalOcean](https://www.digitalocean.com/), infrastructure provider
 - [Crowdin](https://translate.rxresu.me/), translation management platform
 
-&nbsp;
-
-<a href="https://pillai.xyz/digitalocean">
-  <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/PoweredByDO/DO_Powered_by_Badge_blue.svg" width="200px" />
-</a>
-
-## Contributors Wall
-<a href="https://github.com/AmruthPillai/Reactive-Resume/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AmruthPillai/Reactive-Resume" />
-</a>
-
-
-_Note: It may take up to 24h for the [contrib.rocks](https://contrib.rocks/image?repo=AmruthPillai/Reactive-Resume) plugin to update because it's refreshed once a day._
-
 ## License
 
 Reactive Resume is packaged and distributed using the [MIT License](https://choosealicense.com/licenses/mit/) which allows for commercial use, distribution, modification and private use provided that all copies of the software contain the same license and copyright.
 
 _By the community, for the community._  
-A passion project by [Amruth Pillai](https://amruthpillai.com/)
+A passion project by [Wrinth](https://www.linkedin.com/in/wrinth/)
